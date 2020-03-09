@@ -1,1 +1,1 @@
-# personal-site-with-gatsb-theme
+# personal-site-with-gatsby-theme
