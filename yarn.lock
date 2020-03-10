@@ -1371,10 +1371,10 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
-"@robinguan/gatsby-mdx-mui-theme@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@robinguan/gatsby-mdx-mui-theme/-/gatsby-mdx-mui-theme-0.1.0.tgz#a0ba97c4d9726db395d6e0df4eab345674c2d7eb"
-  integrity sha512-4bLPZBY0ggKn4mo+g2hvko51zFblkg22m8EMzowGXOcXaJ6wBDZLpHhOWQR+OW4mGRYCubEiYBSOFs7GAVahKQ==
+"@robinguan/gatsby-mdx-mui-theme@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@robinguan/gatsby-mdx-mui-theme/-/gatsby-mdx-mui-theme-0.1.1.tgz#e194594c012307c1dc6cb650e51ed51b769be84f"
+  integrity sha512-YqXlli07S+lamCU+nHVuB2EEGmWy9+3n/sBJxqNhAeMI6KGAv4ppJpHOgMSrSYTgn+Ay5yO4432TEuVJ2rpU4A==
   dependencies:
     "@emotion/core" "^10.0.14"
     "@material-ui/core" "^4.9.5"
