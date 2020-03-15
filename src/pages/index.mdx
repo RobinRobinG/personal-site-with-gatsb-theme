@@ -1,12 +1,13 @@
-import { Section, Button, ImageContainer, TwoColumnsGrid, FourColumnsGrid, Chips } from "@robinguan/gatsby-mdx-mui-theme"
+import { Section, Button, ImageContainer, TwoColumnsGrid, FourColumnsGrid, Chips, Buttons } from "@robinguan/gatsby-mdx-mui-theme"
 
 <Section background={"#D0CDE1"}>
-<TwoColumnsGrid left={<ImageContainer width={'80%'}>
+<TwoColumnsGrid left={<ImageContainer width={'100%'}>
 
-![notes](./notes.png)
+![mightyvet](./mightyvet.png)
 
 </ImageContainer>} right={<div>
 <h4>MightyVet</h4>
 <p>A website for helping veteninary community to tackle issues in the veterinary profession and community. I worked on building out the front-end of the site.</p><Chips chips={['Angular','Node.js', 'Express.js', 'MongoDB', 'Stripe', 'Bootstrap']} /></div>} />
-<FourColumnsGrid second={<Button color={'primary'} href={'https://mightyvet.org'}>Visit</Button>} third={<Button href={'https://github.com/mighty-vet/MightyVet'}>Github</Button>} />
+
+<Buttons buttons={[{label:'Visit Site', color:'primary', href:'https://mightyvet.org'}, {label:'Github', color:'secondary', href:'https://github.com/mighty-vet/MightyVet'}]} />
 </Section>
