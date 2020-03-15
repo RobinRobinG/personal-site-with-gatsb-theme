@@ -16,10 +16,6 @@ module.exports = {
         name: "email",
         url: "hello@robinguan.com",
       },
-      {
-        name: "website",
-        url: "https://robinrobing.github.io",
-      },
     ],
   },
   plugins: [

@@ -1,4 +1,4 @@
-import themeOriginal from "@robinguan/gatsby-mdx-mui-theme/src/theme"
+import themeOriginal from '@robinguan/gatsby-mdx-mui-theme/src/theme'
 
 const theme = {
   ...themeOriginal,
@@ -6,7 +6,7 @@ const theme = {
     ...themeOriginal.palette,
     primary: {
       ...themeOriginal.palette.primary,
-      main: "#3F3D56",
+      // main: "#3F3D56",
     },
   },
   // overrides: {
