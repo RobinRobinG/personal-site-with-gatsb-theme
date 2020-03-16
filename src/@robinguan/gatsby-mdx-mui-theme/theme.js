@@ -9,6 +9,16 @@ const theme = {
       light: '#cfcfcf',
     },
   },
+  typography: {
+    ...themeOriginal.typography,
+    h5: {
+      fontSize: '2rem',
+      fontWeight: '300',
+      color: '#6C63FF',
+      lineHeight: '4rem',
+    },
+  },
+
   // overrides: {
   //   MuiCssBaseline: {
   //     "@global": {
