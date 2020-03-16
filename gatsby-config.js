@@ -1,25 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: "Robin Guan",
-    author: "Robin",
-    description: "I’m Robin and I’m a full-stack developer, UI/UX designer!",
+    title: 'Robin Guan',
+    author: 'Robin',
+    description:
+      'I’m Robin, a front-end developer with an eye for UI/UX design!',
     social: [
       {
-        name: "linkedin",
-        url: "https://www.linkedin.com/in/robinguan",
+        name: 'linkedin',
+        url: 'https://www.linkedin.com/in/robinguan',
       },
       {
-        name: "github",
-        url: "https://github.com/RobinRobinG",
+        name: 'github',
+        url: 'https://github.com/RobinRobinG',
       },
       {
-        name: "email",
-        url: "hello@robinguan.com",
+        name: 'email',
+        url: 'hello@robinguan.com',
       },
     ],
   },
   plugins: [
-    "@robinguan/gatsby-mdx-mui-theme",
+    '@robinguan/gatsby-mdx-mui-theme',
     {
       resolve: `gatsby-source-filesystem`,
       options: {

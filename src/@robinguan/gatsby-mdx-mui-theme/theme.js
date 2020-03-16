@@ -6,7 +6,7 @@ const theme = {
     ...themeOriginal.palette,
     primary: {
       ...themeOriginal.palette.primary,
-      // main: "#3F3D56",
+      light: '#cfcfcf',
     },
   },
   // overrides: {
