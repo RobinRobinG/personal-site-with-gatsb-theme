@@ -17,6 +17,12 @@ const theme = {
       color: '#6C63FF',
       lineHeight: '4rem',
     },
+    h6: {
+      fontSize: '1.5rem',
+      fontWeight: '300',
+      color: '#6C63FF',
+      lineHeight: '4rem',
+    },
   },
 
   // overrides: {
